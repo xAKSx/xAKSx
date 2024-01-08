@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshad Ali</h1>
-<h3 align="center">A passionate Cybersecurity analyst from Pakistan</h3>
+<h3 align="center">A passionate Cybersecurity student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaksx&label=Profile%20views&color=0e75b6&style=flat" alt="xaksx" /> </p>
 
@@ -11,9 +11,6 @@
 
 - 🤝 I’m looking for help with **SIEM Development**
 
-- 📫 How to reach me **arshadalif20@nutech.edu.pk**
-
-- ⚡ Fun fact **I love playing football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
